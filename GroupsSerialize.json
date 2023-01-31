@@ -1,0 +1,49 @@
+[
+  {
+    "groupName": "КН-21",
+    "description": "Комп'ютерні науки",
+    "students": [
+      {
+        "nameSurname": "Іванов Іван (староста)",
+        "email": "ivanov.ivan@vu.cdu.edu.ua",
+        "elder": true
+      },
+      {
+        "nameSurname": "Романов Роман",
+        "email": "romanov.roman@vu.cdu.edu.ua",
+        "elder": false
+      },
+      {
+        "nameSurname": "Тарасенко Тарас",
+        "email": "tarasenko.taras@vu.cdu.edu.ua",
+        "elder": false
+      },
+      {
+        "nameSurname": "Яненко Ян",
+        "email": "yanenko.yan@vu.cdu.edu.ua",
+        "elder": false
+      }
+    ]
+  },
+  {
+    "groupName": "КС-21",
+    "description": "Програмна інженерія",
+    "students": [
+      {
+        "nameSurname": "Карєніна Анна",
+        "email": "karenina.anna@vu.cdu.edu.ua",
+        "elder": false
+      },
+      {
+        "nameSurname": "Разуміхін Дмитро (староста)",
+        "email": "razumikhin.dmytro@vu.cdu.edu.ua",
+        "elder": true
+      },
+      {
+        "nameSurname": "Раскольников Родіон",
+        "email": "rozkolnykov.rodion@vu.cdu.edu.ua",
+        "elder": false
+      }
+    ]
+  }
+]

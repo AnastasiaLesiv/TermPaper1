@@ -1,0 +1,225 @@
+[
+  {
+    "subjectName": "ТА",
+    "subjectDescription": "Теорія алгоритмів",
+    "groupsNames": [
+      {
+        "groupName": "КН-21",
+        "description": "Комп'ютерні науки",
+        "students": [
+          {
+            "nameSurname": "Іванов Іван (староста)",
+            "email": "ivanov.ivan@vu.cdu.edu.ua",
+            "elder": true
+          },
+          {
+            "nameSurname": "Романов Роман",
+            "email": "romanov.roman@vu.cdu.edu.ua",
+            "elder": false
+          },
+          {
+            "nameSurname": "Тарасенко Тарас",
+            "email": "tarasenko.taras@vu.cdu.edu.ua",
+            "elder": false
+          },
+          {
+            "nameSurname": "Яненко Ян",
+            "email": "yanenko.yan@vu.cdu.edu.ua",
+            "elder": false
+          }
+        ]
+      },
+      {
+        "groupName": "КС-21",
+        "description": "Програмна інженерія",
+        "students": [
+          {
+            "nameSurname": "Карєніна Анна",
+            "email": "karenina.anna@vu.cdu.edu.ua",
+            "elder": false
+          },
+          {
+            "nameSurname": "Разуміхін Дмитро (староста)",
+            "email": "razumikhin.dmytro@vu.cdu.edu.ua",
+            "elder": true
+          },
+          {
+            "nameSurname": "Раскольников Родіон",
+            "email": "rozkolnykov.rodion@vu.cdu.edu.ua",
+            "elder": false
+          }
+        ]
+      }
+    ],
+    "lessons": [
+      {
+        "date": "2023-02-10T00:00:00",
+        "type": "лекція",
+        "absent": [ "tarasenko.taras@vu.cdu.edu.ua" ],
+        "grade": [
+          {
+            "studEmail": "ivanov.ivan@vu.cdu.edu.ua",
+            "grade": 4
+          },
+          {
+            "studEmail": "romanov.roman@vu.cdu.edu.ua",
+            "grade": 2
+          },
+          {
+            "studEmail": "yanenko.yan@vu.cdu.edu.ua",
+            "grade": 0
+          },
+          {
+            "studEmail": "karenina.anna@vu.cdu.edu.ua",
+            "grade": 3
+          },
+          {
+            "studEmail": "razumikhin.dmytro@vu.cdu.edu.ua",
+            "grade": 5
+          },
+          {
+            "studEmail": "rozkolnykov.rodion@vu.cdu.edu.ua",
+            "grade": 4
+          }
+        ]
+      },
+      {
+        "date": "2023-02-11T00:00:00",
+        "type": "лабораторна",
+        "absent": [ "karenina.anna@vu.cdu.edu.ua", "rozkolnykov.rodion@vu.cdu.edu.ua" ],
+        "grade": [
+          {
+            "studEmail": "ivanov.ivan@vu.cdu.edu.ua",
+            "grade": 3
+          },
+          {
+            "studEmail": "romanov.roman@vu.cdu.edu.ua",
+            "grade": 4
+          },
+          {
+            "studEmail": "tarasenko.taras@vu.cdu.edu.ua",
+            "grade": 5
+          },
+          {
+            "studEmail": "yanenko.yan@vu.cdu.edu.ua",
+            "grade": 2
+          },
+          {
+            "studEmail": "razumikhin.dmytro@vu.cdu.edu.ua",
+            "grade": 4
+          }
+        ]
+      },
+      {
+        "date": "2023-02-12T00:00:00",
+        "type": "лекція",
+        "absent": [ "ivanov.ivan@vu.cdu.edu.ua", "tarasenko.taras@vu.cdu.edu.ua", "karenina.anna@vu.cdu.edu.ua" ],
+        "grade": [
+          {
+            "studEmail": "romanov.roman@vu.cdu.edu.ua",
+            "grade": 4
+          },
+          {
+            "studEmail": "yanenko.yan@vu.cdu.edu.ua",
+            "grade": 0
+          },
+          {
+            "studEmail": "razumikhin.dmytro@vu.cdu.edu.ua",
+            "grade": 4
+          },
+          {
+            "studEmail": "rozkolnykov.rodion@vu.cdu.edu.ua",
+            "grade": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subjectName": "ДС",
+    "subjectDescription": "Дискретна математика",
+    "groupsNames": [
+      {
+        "groupName": "КН-21",
+        "description": "Комп'ютерні науки",
+        "students": [
+          {
+            "nameSurname": "Іванов Іван (староста)",
+            "email": "ivanov.ivan@vu.cdu.edu.ua",
+            "elder": true
+          },
+          {
+            "nameSurname": "Романов Роман",
+            "email": "romanov.roman@vu.cdu.edu.ua",
+            "elder": false
+          },
+          {
+            "nameSurname": "Тарасенко Тарас",
+            "email": "tarasenko.taras@vu.cdu.edu.ua",
+            "elder": false
+          },
+          {
+            "nameSurname": "Яненко Ян",
+            "email": "yanenko.yan@vu.cdu.edu.ua",
+            "elder": false
+          }
+        ]
+      }
+    ],
+    "lessons": [
+      {
+        "date": "2023-02-15T00:00:00",
+        "type": "лекція",
+        "absent": [ "yanenko.yan@vu.cdu.edu.ua" ],
+        "grade": [
+          {
+            "studEmail": "ivanov.ivan@vu.cdu.edu.ua",
+            "grade": 4
+          },
+          {
+            "studEmail": "romanov.roman@vu.cdu.edu.ua",
+            "grade": 5
+          },
+          {
+            "studEmail": "tarasenko.taras@vu.cdu.edu.ua",
+            "grade": 2
+          }
+        ]
+      },
+      {
+        "date": "2023-02-20T00:00:00",
+        "type": "практична",
+        "absent": [ "ivanov.ivan@vu.cdu.edu.ua", "yanenko.yan@vu.cdu.edu.ua" ],
+        "grade": [
+          {
+            "studEmail": "romanov.roman@vu.cdu.edu.ua",
+            "grade": 4
+          },
+          {
+            "studEmail": "tarasenko.taras@vu.cdu.edu.ua",
+            "grade": 0
+          }
+        ]
+      },
+      {
+        "date": "2023-02-25T00:00:00",
+        "type": "практична",
+        "absent": [ "tarasenko.taras@vu.cdu.edu.ua" ],
+        "grade": [
+          {
+            "studEmail": "ivanov.ivan@vu.cdu.edu.ua",
+            "grade": 4
+          },
+          {
+            "studEmail": "romanov.roman@vu.cdu.edu.ua",
+            "grade": 3
+          },
+          {
+            "studEmail": "yanenko.yan@vu.cdu.edu.ua",
+            "grade": 4
+          }
+        ]
+      }
+    ]
+  }
+]
